@@ -1,3 +1,7 @@
+# DAY ONE OF 100 DAYS OF CODE
+
+########################################################################
+
 # prints Hello + Name given
 # print("Hello " + input("What is your Name: "))
 
